@@ -276,15 +276,19 @@ html {
         font-size: 35px;
         width: 300px;
         margin: auto;
-        transform: translateX(-17%);
+        transform: translateX(-18%);
     }
 
     .home .home-text p {
         width: 260px;
         margin: 0 auto;
-        transform: translateX(-12%);
+        transform: translateX(-13%);
         text-shadow: 2px 2px 4px #0000007a;
     }
+
+    .home::after {
+        display: none;
+      }
 
     /* about */
     .about .cards .card img,

@@ -243,7 +243,7 @@ html {
         right: -120%;
         top: 0;
         flex-direction: column;
-        margin-top: 80px;
+        margin-top: 85px;
         transition: all ease-in-out 0.5s;
     }
 
@@ -276,13 +276,13 @@ html {
         font-size: 35px;
         width: 300px;
         margin: auto;
-        transform: translateX(-18%);
+        transform: translateX(-19%);
     }
 
     .home .home-text p {
         width: 260px;
         margin: 0 auto;
-        transform: translateX(-13%);
+        transform: translateX(-14%);
         text-shadow: 2px 2px 4px #0000007a;
     }
 
